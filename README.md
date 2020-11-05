@@ -6,7 +6,7 @@ program di python
 1.Download PyCharm
 ![screen1](/gambar/screen1.png)
 2.input program di pycharm seperti berikut
-tampilan input
+tampilan input penggunaan END
 ![screen2](/gambar/screen2.png)
 
 run tampilan output
