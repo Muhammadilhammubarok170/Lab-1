@@ -5,14 +5,6 @@ program di python
 
 1.Download PyCharm
 ![screen1](/gambar/screen1.png)
-2.input program di pycharm
-input
-#penggunaan end
-print('A', end='')
-print('B', end='')
-print('C', end='')
-print()
-print('X', end='')
-print('Y', end='')
-print('Z', end='')
+2.input program di pycharm seperti berikut
+tampilan input
 ![screen2](/gambar/screen2.png)
